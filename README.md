@@ -1,9 +1,12 @@
 # Frontend Mentor - Challenges
----
+
 This is my solution to the Product preview card component challenge on Frontend Mentor Website.
----
+
 ## Screenshot
 ![Product preview card component - desktop](images/screenshot-desktop.png)
 
-![Product preview card component - mobile](images/screenshot-mobile.png)
+## Links
+* Github: [Github](https://github.com/joyce-souza)
+* Frontend Mentor: [Frontend Mentor](https://www.frontendmentor.io/profile/joyce-souza)
+
  
