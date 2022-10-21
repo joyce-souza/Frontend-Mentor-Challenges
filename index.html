@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays site properly based on user's device -->
+
 
     <link rel="stylesheet" href="style.css" />
 
@@ -16,14 +16,22 @@
 
     <title>Frontend Mentor | Product preview card component</title>
 
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
     
   </head>
   <body>
-    <div class="container">
+
+    <main>
+    
       <div class="box">
-        <img class="desktop__img" src="images/image-product-desktop.jpg" alt="Perfume" />
-        <img class="mobile__img" src="images/image-product-mobile.jpg" alt="">
+
+        <picture>
+          <source srcset="images/image-product-mobile.jpg" media="(max-width: 480px)">
+          <img class="mobile__img" src="images/image-product-mobile.jpg" alt="Perfume">
+
+          <source srcset="images/image-product-desktop.jpg" media="(min-width: 481px)" class="desktop__img">
+          <img class="desktop__img" src="images/image-product-desktop.jpg" alt="Perfume">
+        </picture>
+       
 
 
         <div class="box__description">
@@ -54,7 +62,8 @@
 
         </div>
       </div>
-    </div>
+
+  </main>
 
 
     <div class="attribution">
