@@ -6,7 +6,7 @@ This is my solution to the Product preview card component challenge on Frontend 
 ![Product preview card component - desktop](images/screenshot-desktop.png)
 
 ## Links
-* Github: (https://github.com/joyce-souza)
-* Frontend Mentor: (https://www.frontendmentor.io/profile/joyce-souza)
+* Github: https://github.com/joyce-souza
+* Frontend Mentor: https://www.frontendmentor.io/profile/joyce-souza
 
  
