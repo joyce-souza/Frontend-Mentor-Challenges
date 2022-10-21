@@ -9,7 +9,7 @@ This is my solution to the Product preview card component challenge on Frontend 
 * Solution URL: https://bit.ly/3gm14Pz
 * Live Site URL: https://joyce-souza.github.io/Frontend-Mentor-Challenges/
 
-## Build with
+## Built with
 * Semantic HTML5 markup
 * Flexbox
 * Media query
